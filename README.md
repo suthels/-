@@ -4,10 +4,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-|序号| 算法简称 | 算法全称 | 算法英文 |发表年份|code
+|No.| 算法简称 | 算法全称 | 算法英文 |Year|Source code
 | ------ | ------ | ------ |  ------ |------ |------ |
 |1| [CPO](https://doi.org/10.1016/j.knosys.2023.111257) | 冠豪猪算法 | Crested Porcupine Optimizer |2024|[code](https://drive.mathworks.com/sharing/24c48ec7-bfd5-4c22-9805-42b7c394c691/)
-|2| [AOA](https://doi.org/10.1016/j.cma.2020.113609) | 算数优化算法 | Arithmetic Optimization Algorithm |2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/84742-the-arithmetic-optimization-algorithm-aoa)
+|2| [AOA](https://doi.org/10.1016/j.cma.2020.113609) | 算术优化算法 | Arithmetic Optimization Algorithm |2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/84742-the-arithmetic-optimization-algorithm-aoa)
 |3| [AO](https://doi.org/10.1016/j.cie.2021.107250) | 天鹰/阿拉奎算法 | Aquila Optimizer |2021|[code](https://www.mathworks.com/matlabcentral/fileexchange/89381-aquila-optimizer-a-meta-heuristic-optimization-algorithm)
 |4| [RUN](https://doi.org/10.1016/j.eswa.2021.115079) | 龙格库塔算法 | Runge Kutta Optimization Algorithm |2021|[code](https://github.com/aliasgharheidaricom/RUN-Beyond-the-Metaphor-An-Efficient-Optimization-Algorithm-Based-on-Runge-Kutta-Method)
 |5| [FHO](https://doi.org/10.1007/s10462-022-10173-w) | 火鹰优化算法 | Fire Hawk Optimizer |2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/114325-fire-hawk-optimizer-fho-a-novel-metaheuristic-algorithm)
@@ -16,7 +16,7 @@
 |8| [JS](https://doi.org/10.1016/j.amc.2020.125535) | 人工水母算法 | Artificial Jellyfish Search optimizer |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/78961-jellyfish-search-optimizer-js)
 |9| [SAO](https://doi.org/10.1016/j.eswa.2023.120069) | 雪消融优化器 | Snow ablation optimizer |2023|[code](https://github.com/denglingyun123/SAO-snow-ablation-optimizer)|
 |10| [SOA](https://doi.org/10.1016/j.knosys.2018.11.024) | 海鸥优化算法 | Seagull optimization algorithm |2018|[code](https://www.mathworks.com/matlabcentral/fileexchange/75180-seagull-optimization-algorithm-soa?s_tid=FX_rc2_behav)
-|11| [ACO](https://doi.org/10.1109/MCI.2006.329691) | 蚁群算法 | Ant colony optimization |2006|
+|11| [ACO](https://doi.org/10.1109/MCI.2006.329691) | 蚁群算法 | Ant colony optimization |2006|[code](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)
 |12| [WCO](https://doi.org/10.1016/j.compstruc.2012.07.010) | 水循环算法 | Water cycle algorithm |2012|[code](https://www.mathworks.com/matlabcentral/fileexchange/56339-water-cycle-algorithm-wca)
 |13| [RTH](https://doi.org/10.1038/s41598-023-38778-3) | 红尾鵟算法 | Red-tailed hawk algorithm |2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/135286-red-tailed-hawk-algorithm-rth)
 |14| [HUS](https://doi.org/10.1016/j.matcom.2020.05.023) | 人类城市化算法 | Human urbanization algorithm |2020|[code](https://github.com/hadighasemian/HUS)
@@ -25,7 +25,7 @@
 |17| [GBO](https://doi.org/10.1016/j.ins.2020.06.037) | 基于梯度的优化器 | Gradient-Based Optimizer |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/131588-gradient-based-optimizer)
 |18| [HHO](https://doi.org/10.1016/j.future.2019.02.028) | 哈里斯鹰算法 | Harris hawks optimization |2019|[code](https://github.com/aliasgharheidaricom/RUN-Beyond-the-Metaphor-An-Efficient-Optimization-Algorithm-Based-on-Runge-Kutta-Method)
 |19| [COA](https://doi.org/10.1007/s10462-023-10567-4) | 小龙虾优化算法 | Crayfish optimization algorithm |2023|[code](https://github.com/rao12138/COA-s-code)
-|20| [PSO](https://doi.org/10.1109/ICNN.1995.488968) | 粒子群算法 | Particle swarm optimization |1995|
+|20| [PSO](https://doi.org/10.1109/ICNN.1995.488968) | 粒子群算法 | Particle swarm optimization |1995|[code](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)
 |21| [WOA](https://doi.org/10.1016/j.advengsoft.2013.12.007) | 鲸鱼优化算法 | Whale Optimization Algorithm |2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/55667-the-whale-optimization-algorithm)
 |22| [GWO](https://doi.org/10.1016/j.advengsoft.2013.12.007) | 灰狼优化算法 | Grey Wolf Optimizer |2013|[code](https://jp.mathworks.com/matlabcentral/fileexchange/44974-grey-wolf-optimizer-gwo)
 |23| [EDO](https://doi.org/10.1007/s10462-023-10403-9) | 指数分布优化器 | Exponential distribution optimizer |2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/126195-exponential-distribution-optimizer-edo?s_tid=FX_rc3_behav)
@@ -56,20 +56,68 @@
 |48|[MPA](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302025) | 海洋捕食者算法 | Marine predators algorithm |2020|[code](https://github.com/afshinfaramarzi/Marine-Predators-Algorithm)
 |49| [KH](http://dx.doi.org/10.1016/j.cnsns.2012.05.010) | 磷虾群优化算法 | Krill herd |2012|[code](https://www.mathworks.com/matlabcentral/fileexchange/55486-krill-herd-algorithm)
 |50| [WO](https://doi.org/10.1016/j.eswa.2023.122413) | 海象优化器 | Walrus optimizer |2024|[code](https://www.mathworks.com/matlabcentral/fileexchange/154702-walrus-optimizer-wo?s_tid=FX_rc3_behav)
-|51| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
+|51| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|[code](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)
 |52| [BWO](https://doi.org/10.1155/2020/8856040) | 黑寡妇优化算法 | Black widow optimization algorithm |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/94080-black-widow-optimization-algorithm)
 |53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
 |54| [HBA](https://doi.org/10.1016/j.matcom.2021.08.013) | 蜜獾算法 | Honey badger algorithm |2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/98204-honey-badger-algorithm)
 |55| [SO](https://doi.org/10.1016/j.knosys.2022.108320) | 蛇优化算法 |Snake optimizer |2022|[code](https://se.mathworks.com/matlabcentral/fileexchange/106465-snake-optimizer)
 |56| [FLA](https://doi.org/10.1016/j.knosys.2022.110146) | 菲克定律算法 | Fick’s law algorithm |2023|[code](https://se.mathworks.com/matlabcentral/fileexchange/121033-fick-s-law-algorithm-fla)
 |57| [GSO](https://doi.org/10.1109/tevc.2009.2011992) | 群体搜索算法 | Group search optimizer |2009|[code](https://github.com/gdesouza/Group-Search-Optimizer)
-|58| [ROA](https://doi.org/10.1016/j.eswa.2021.115665) | Remora优化算法 | Remora optimization algorithm |2021|[code](https://github.com/angelinbeni/Remora_Optimization_Algorithm)
-|59| [ChOA](https://doi.org/10.1016/j.eswa.2020.113338) | 烟抽优化算法 | Chimp optimization algorithm |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/76763-chimp-optimization-algorithm)
+|58| [ROA](https://doi.org/10.1016/j.eswa.2021.115665) | 鮣鱼优化算法 | Remora optimization algorithm |2021|[code](https://github.com/angelinbeni/Remora_Optimization_Algorithm)
+|59| [ChOA](https://doi.org/10.1016/j.eswa.2020.113338) | 烟囱优化算法 | Chimp optimization algorithm |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/76763-chimp-optimization-algorithm)
 |60| [TSA](https://doi.org/10.1007/s12065-020-00451-3) | 树种优化算法 | Tree-seed algorithm |2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/62646-tsa-tree-seed-algorithm-for-continuous-optimization)
-|61| [SA](https://doi.org/10.1126/science.220.4598.671) | 模拟退火算法 | simulated annealing |1983|
+|61| [SA](https://doi.org/10.1126/science.220.4598.671) | 模拟退火算法 | simulated annealing |1983|[code](https://mp.weixin.qq.com/s/jp9iivAvEQAmlRPVOqrPHw)
 |62| [SMA](https://doi.org/10.1016/j.future.2020.03.055) | 泥模算法 | Slime mould algorithm |2020|[code](https://github.com/aliasgharheidaricom/Slime-Mould-Algorithm-A-New-Method-for-Stochastic-Optimization-)
-|63| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
-|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
-|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
-|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
-|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|63| [DE](https://doi.org/10.1007/s00500-019-04621-z) | 差分进化算法及其变体合集 | GizDifferential evolutionary algorithm |2024|[变体合集](https://mp.weixin.qq.com/s/g8_27_lawg4uwt6xWiSLqg)
+|64| [HMO](https://doi.org/10.1016/j.knosys.2022.110032) | 同核分子优化算法|GizHomonuclear molecules optimization|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/119943-homonuclear-molecules-optimization-hmo?s_tid=FX_rc3_behav)
+|65| [MFO](https://doi.org/10.1016/j.knosys.2015.07.006) | 蛾焰优化算法 | GizMoth-flame optimization algorithm |2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/52269-moth-flame-optimization-mfo-algorithm)
+|66| [MVO](https://doi.org/10.1007/s00521-015-1870-7) | 多维优化器|GizMulti-verse optimizer|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/50112-multi-verse-optimizer-mvo)
+|67| [GEO](https://doi.org/10.1016/j.cie.2020.107050) | 金鹰优化器 | GizGolden eagle optimizer|2021|[code/MOGEO](https://www.mathworks.com/matlabcentral/fileexchange/84430-golden-eagle-optimizer-toolbox)
+|68| [WHO](https://doi.org/10.1007/s00366-021-01438-z) | 野马优化器 | Wild horse optimizer|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/90787-wild-horse-optimizer)
+|69| [AFSA](https://doi.org/10.1007/s10462-012-9342-2) | 人工鱼群算法 | GizArtificial fish swarm algorithm|2014|[code](https://www.mathworks.com/matlabcentral/fileexchange/32022-swarmfish-the-artificial-fish-swarm-algorithm)
+|70| [FSO](https://doi.org/10.1016/j.eswa.2021.115408) | 萤火虫群优化算法 | GizFirebug Swarm Optimization algorithm|2021|[code](https://www.mathworks.com/matlabcentral/fileexchange/94710-firebug-swarm-optimization-fso-algorithm)
+|71| [EOSA](https://doi.org/10.1109/access.2022.3147821) | 金鹰埃博拉优化搜索算法|Ebola optimization search algorithm|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/163316-ebola-optimization-search-algorithm)
+|72| [DOA](https://doi.org/10.1155/2021/9107547) |  野狗优化算法| Gizdingoes hunting strategies|2021|[code](https://www.mathworks.com/matlabcentral/fileexchange/98124-dingo-optimization-algorithm-doa)
+|73| [COA](https://ieeexplore.ieee.org/document/8477769) | 郊狼优化算法 | Coyote Optimization Algorithm|2018|[code](https://github.com/jkpir/COA)
+|74| [FOX](https://doi.org/10.1016/j.eswa.2020.114107) | 红狐优化算法 | GizRed fox optimization algorithm|2021|[code](https://github.com/Hardi-Mohammed/FOX)
+|75| [JAYA](https://doi.org/10.5267/j.ijiec.2015.8.004) |最优最差|JAYA|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/74004-jaya-a-simple-and-new-optimization-algorithm)
+|76| [RAO](https://doi.org/10.5267/j.ijiec.2019.6.002) | RAO算法| Rao algorithms|2020|[code](https://sites.google.com/view/raoalgorithms/algorithm-codes)
+|77| [TLBO](https://doi.org/10.1016/j.cad.2010.12.015) | 教学优化器| RaoTeaching–learning-based optimization|2011|[code](https://www.mathworks.com/matlabcentral/fileexchange/65628-teaching-learning-based-optimization)
+|78| [GSA](https://doi.org/10.1016/j.ins.2009.03.004) | 重力搜索算法|gravitational search algorithms|2009|[code](https://github.com/himanshuRepo/Gravitational-Search-Algorithm)
+|79| [SFS](https://doi.org/10.1016/j.knosys.2014.07.025) | 随机分形搜索算法| Stochastic fractal search algorithms|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/47565-stochastic-fractal-search-sfs)
+|80| [LSA](https://doi.org/10.1016/j.asoc.2015.07.028) | 光搜索算法| Lightning search algorithms|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/54181-lightning-search-algorithm-lsa)
+|81| [BSO](https://doi.org/10.1007/978-3-642-21515-5_36) | 头脑风暴搜索算法| RaoBrain storm optimization algorithm|2011|[code](https://github.com/stevenyangyj/Brainstorm-Optimization)
+|82| [BBO](https://doi.org/10.1109/tevc.2008.919004) | 生物地理优化算法| Biogeography-based optimization|2008|[code](https://github.com/himanshuRepo/Biogeography-Based-Optimization)
+|83| [RIME](https://doi.org/10.1016/j.neucom.2023.02.010) | 霜冰优化算法| Rime optimization algorithms|2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/124610-rime-a-physics-based-optimization)
+|84| [ARO](https://doi.org/10.1016/j.engappai.2022.105082) | 人工兔算法| Artificial rabbits optimization |2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/110250-artificial-rabbits-optimization-aro)
+|85| [DBO](https://doi.org/10.1007/s11227-022-04959-6) | 蜣螂优化器| RaDung beetle optimizer|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/121318-dung-beetle-optimizer-a-new-meta-heuristic-algorithm?s_tid=FX_rc2_behav)
+|86| [AEFA](https://doi.org/10.1016/j.swevo.2019.03.013) | 人工电场算法| RaoArtificial electric field algorithms|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/71218-aefa-artificial-electric-field-algorithm)
+|87| [HGS](https://doi.org/10.1016/j.eswa.2021.114864) | 饥饿游戏搜索算法| Hunger games search algorithms|2021|[code](https://jp.mathworks.com/matlabcentral/fileexchange/88758-hunger-games-search-hgs-towards-performance-shifts)
+|88| [GO](https://doi.org/10.1016/j.knosys.2022.110206) | 成长优化器|Growth optimizer|2023|[code](https://github.com/tsingke/Growth-Optimizer)
+|89| [AHA](https://doi.org/10.1016/j.cma.2021.114194) | 人工蜂鸟优化算法| Artificial hummingbird algorithms|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/101133-artificial-hummingbird-algorithm)
+|90| [SDO](https://doi.org/10.1109/access.2019.2918753) | 供需优化算法| Supply-demand-based optimization algorithms|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/71764-supply-demand-based-optimization)
+|91| [AEO](https://doi.org/10.1007/s00521-019-04452-x) | 人工生态算法| RaoArtificial ecosystem-based optimization algorithms|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/72685-artificial-ecosystem-based-optimization-aeo)
+|92| [MRFO](https://doi.org/10.1016/j.engappai.2019.103300) | 蝠鲼觅食优化算法| Manta ray foraging optimization algorithms|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/73130-manta-ray-foraging-optimization-mrfo)
+|93| [BWO](https://doi.org/10.1016/j.knosys.2022.109215) |白鲸优化算法| RaBeluga whale optimization|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/112830-beluga-whale-optimization-bwo)
+|94| [HOA](https://doi.org/10.1016/j.knosys.2024.111880) | 徒步优化算法|Hiking Optimization algorithms|2024|[code](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)
+|95| [NRBO](https://doi.org/10.1016/j.engappai.2023.107532) | 牛顿拉夫逊优化算法| Newton-Raphson-based optimizer|2024|[code](https://www.mathworks.com/matlabcentral/fileexchange/158066-newton-raphson-based-optimizer-nrbo)
+|96| [WAA](https://doi.org/10.1016/j.knosys.2024.112564) | 加权平均算法| Weighted average algorithm |2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/174020-a-weighted-average-algorithm?s_tid=FX_rc3_behav)
+|97| [AFO](https://doi.org/10.1016/j.knosys.2021.107483) | 帝企鹅优化算法| Aptenodytes Forsteri Optimization algorithms|2021|[code](https://github.com/TwilightArchonYz/A-new-Nature-inspired-optimization-algorithm-AFO)
+|98| [TTAO](https://doi.org/10.1016/j.eswa.2023.121744) | 三角拓扑优化算法| Triangulation topology aggregation optimizer|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/136029-triangulation-topology-aggregation-optimizer)
+|99| [FVIM](https://doi.org/10.1007/s00607-024-01287-w) | 四向量优化算法| RaFour vector intelligent metaheuristic|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/166491-four-vector-intelligent-metaheuristic-fvim?s_tid=FX_rc3_behav)
+|100| [ECO](https://doi.org/10.1080/00207721.2024.2367079) | 教育竞争优化算法| Educational Competition Optimizer algorithms|2024|[code](https://github.com/junbolian/ECO)
+|101| [PO](https://doi.org/10.1016/j.compbiomed.2024.108064) | 鹦鹉优化器| Parrot optimizer|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/169846-an-efficient-improved-parrot-optimizer)
+|102| [CTCM](https://doi.org/10.1016/j.eswa.2024.125908) | 部落竞争与成员合作算法| Competition of tribes and cooperation of members algorithms|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/168661-competition-of-tribes-and-cooperation-with-members-ctcm)
+|103| [KO](https://doi.org/10.1016/j.knosys.2022.109189) | K均值算法| K-means clustering algorithms|2022|[code](https://mp.weixin.qq.com/s/tOz_Y3jzf9GCOdWjnqd6ig)
+|104| [ETO](https://doi.org/10.1016/j.cma.2024.117411) | 指数三角优化算法| Exponential-Trigonometric Optimization|2024|[code](https://mp.weixin.qq.com/s/CPnRQBOJKLvjeyoyI2-6MQ)
+|105| [ESA](https://doi.org/10.1007/s10462-024-11008-6) | 逃生优化算法| Escape algorithms|2025|[code](https://mp.weixin.qq.com/s/ys6_vKiwArA3LmhmN1Wkbw)
+|106| [AE](https://doi.org/10.1016/j.engappai.2024.109202) | 阿尔法进化算法| Alpha Evolution Algorithm|2024|[code1](https://mp.weixin.qq.com/s/C70GjRpRqvlUpygOX2_r9w)/[code2](https://github.com/tsingke/AlphaEvolution)
+|107| [LEA](https://doi.org/10.1007/s11227-024-05905-4) | 爱情进化算法| Love Evolution Algorithm|2024|[code](https://mp.weixin.qq.com/s/EJye-uX1s2DMjL4opwPweg)
+|108| [VPPSO](https://doi.org/10.1007/s00521-022-08179-0) | 速度暂停粒子群算法| Velocity pausing particle swarm optimizationR|2023|[code](https://mp.weixin.qq.com/s/rW2SneCqPAikvTH1efkfnw)
+|109| [NPDOA](https://doi.org/10.1016/j.knosys.2024.112194) | 神经种群动态优化算法| Neural population dynamics optimization algorithm|2024|[code](https://mp.weixin.qq.com/s/nChOLU99M9wuW96-R22O6g)
+|110| [FTTA](https://doi.org/10.1016/j.eswa.2023.123088) | 足球训练队优化算法| Football team training algorithm |2024|[code](https://mp.weixin.qq.com/s/8zVGn1VCIUrdDmJgMj2Vag)
+|111| [SCHO](https://doi.org/10.1016/j.knosys.2023.111081) | 双曲正弦余弦优化算法| Sinh cosh optimizer|2023|[code](https://mp.weixin.qq.com/s/L3esvGc4HagsEm4uMU9mvw)
+|112| [PSA](https://doi.org/10.1016/j.eswa.2023.120886) | PID搜索算法| PID-based search algorithms|2023|[code](https://mp.weixin.qq.com/s/ABAfj2uSCFdEHhSgjr5Q-A)
+|113| [LVY](https://doi.org/10.1016/j.knosys.2024.111850) | 常春藤优化算法| Ivy algorithms|2024|[code](https://mp.weixin.qq.com/s/DxH5QUL4j_buVrfqEg_CWQ)
+|114| [AROA](https://doi.org/10.1016/j.swevo.2023.101459) | 吸引排斥优化算法| Attraction–Repulsion Optimization algorithms|2024|[code](https://mp.weixin.qq.com/s/SiVX8eUu6avZ40q_lx5pcw)
+|100| [RAO](https://doi.org/10.5267/j.ijiec.2019.6.002) | RAO算法| Rao algorithms|2021|
