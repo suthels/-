@@ -54,10 +54,22 @@
 |46| [EO](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305295) | 平衡优化器 | Equilibrium optimizer |2020|[code](https://github.com/afshinfaramarzi/Equilibrium-Optimizer)
 |47| [PDO](https://link.springer.com/article/10.1007/s00521-022-07530-9) | 草原犬优化算法 | Prairie Dog Optimization Algorithm |2017|[code](https://www.mathworks.com/matlabcentral/fileexchange/110980-prairie-dog-optimization-algorithm) 
 |48|[MPA](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302025) | 海洋捕食者算法 | Marine predators algorithm |2020|[code](https://github.com/afshinfaramarzi/Marine-Predators-Algorithm)
-|49| [KH](https://doi.org/10.1126/science.8346439) | 磷虾群优化算法 | Krill herd |2012|[code](https://www.mathworks.com/matlabcentral/fileexchange/55486-krill-herd-algorithm)
+|49| [KH](http://dx.doi.org/10.1016/j.cnsns.2012.05.010) | 磷虾群优化算法 | Krill herd |2012|[code](https://www.mathworks.com/matlabcentral/fileexchange/55486-krill-herd-algorithm)
 |50| [WO](https://doi.org/10.1016/j.eswa.2023.122413) | 海象优化器 | Walrus optimizer |2024|[code](https://www.mathworks.com/matlabcentral/fileexchange/154702-walrus-optimizer-wo?s_tid=FX_rc3_behav)
 |51| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
-|52| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
-|40| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
-|40| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
-|40| [GA](https://doi.org/10.1126/science.8346439) | 遗传算法 | Genetic algorithms |1993|
+|52| [BWO](https://doi.org/10.1155/2020/8856040) | 黑寡妇优化算法 | Black widow optimization algorithm |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/94080-black-widow-optimization-algorithm)
+|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|54| [HBA](https://doi.org/10.1016/j.matcom.2021.08.013) | 蜜獾算法 | Honey badger algorithm |2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/98204-honey-badger-algorithm)
+|55| [SO](https://doi.org/10.1016/j.knosys.2022.108320) | 蛇优化算法 |Snake optimizer |2022|[code](https://se.mathworks.com/matlabcentral/fileexchange/106465-snake-optimizer)
+|56| [FLA](https://doi.org/10.1016/j.knosys.2022.110146) | 菲克定律算法 | Fick’s law algorithm |2023|[code](https://se.mathworks.com/matlabcentral/fileexchange/121033-fick-s-law-algorithm-fla)
+|57| [GSO](https://doi.org/10.1109/tevc.2009.2011992) | 群体搜索算法 | Group search optimizer |2009|[code](https://github.com/gdesouza/Group-Search-Optimizer)
+|58| [ROA](https://doi.org/10.1016/j.eswa.2021.115665) | Remora优化算法 | Remora optimization algorithm |2021|[code](https://github.com/angelinbeni/Remora_Optimization_Algorithm)
+|59| [ChOA](https://doi.org/10.1016/j.eswa.2020.113338) | 烟抽优化算法 | Chimp optimization algorithm |2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/76763-chimp-optimization-algorithm)
+|60| [TSA](https://doi.org/10.1007/s12065-020-00451-3) | 树种优化算法 | Tree-seed algorithm |2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/62646-tsa-tree-seed-algorithm-for-continuous-optimization)
+|61| [SA](https://doi.org/10.1126/science.220.4598.671) | 模拟退火算法 | simulated annealing |1983|
+|62| [SMA](https://doi.org/10.1016/j.future.2020.03.055) | 泥模算法 | Slime mould algorithm |2020|[code](https://github.com/aliasgharheidaricom/Slime-Mould-Algorithm-A-New-Method-for-Stochastic-Optimization-)
+|63| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
+|53| [GPC](https://doi.org/10.1007/s12065-020-00451-3) | 吉萨金字塔建造算法 | Giza pyramids construction |2020|
