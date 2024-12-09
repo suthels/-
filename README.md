@@ -109,6 +109,9 @@
 |33|[GEA](https://doi.org/10.1007/s42235-023-00437-8)|间歇泉优化算法|Geyser inspired algorithm|2023|[code](https://optim-app.com/projects/gea)|
 |34|[SOA](https://doi.org/10.32604/cmc.2023.030379)|技能优化算法|Skill optimization algorithm|2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/110675-skill-optimization-algorithm-soa)|
 |35|[SFO](https://doi.org/10.1007/978-981-19-9733-4_4)|向日葵优化算法|Sunflower Optimization Algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/69076-sunflower-optimization-sfo-algorithm)|
+|36|[BSMO](https://doi.org/10.3390/app13010564)|二元八哥杂音优化算法|Binary starling murmuration optimizer algorithm|2023|[code](https://github.com/Zahra-Asghari/BSMO)|
+|37|[SPSO]( https://doi.org/10.3390/drones7070452)|球面矢量粒子群优化算法|Spherical Vector-based Particle Swarm Optimization|2023|[code](https://github.com/hadliner/Safety-enhanced-UAV-Path-Planning-with-Spherical-Vector-based-Particle-Swarm)|
+
 ---
 
 **Year = 2022**  
@@ -185,6 +188,7 @@
 |18|[DA](https://doi.org/10.1007/s00521-020-04866-y)|蜻蜓算法|Dragonfly algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/51035-da-dragonfly-algorithm)|
 |19|[SSA](https://doi.org/10.1080/21642583.2019.1708830)|麻雀搜索算法|Sparrow Search algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/88788-sparrow-search-algorithm-ssa)|
 |20|[MA](https://doi.org/10.1016/j.cie.2020.106559)|蜉蝣优化算法|Mayfly optimization algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/76902-mayfly-optimization-algorithm)|
+|21|[MRFO](https://doi.org/10.1016/j.engappai.2019.103300)|蝠鲼觅食优化|Manta ray foraging optimization|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/73130-manta-ray-foraging-optimization-mrfo)|
 ---
 
 **Year = 2019**  
@@ -198,6 +202,8 @@
 |6|[STOA](https://doi.org/10.1016/j.engappai.2019.03.021)|乌鸦优化算法|Sooty Tern Optimization Algorithm|2019|[code](https://www.mathworks.com/matlabcentral/fileexchange/76667-sooty-tern-optimization-algorithm-stoa)|
 |7|[HGSO](https://doi.org/10.1016/j.future.2019.07.015)|亨利气体溶解度优化|Henry gas solubility optimization|2019|[code](https://www.mathworks.com/matlabcentral/fileexchange/72212-henry-gas-solubility-optimization)|
 |8|[SFO](https://doi.org/10.1016/j.engappai.2019.01.001)|旗鱼优化器|Sailfish Optimizer|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163381-sailfish-optimizer-sfo?s_tid=prof_contriblnk)|
+|9|[SSA](https://doi.org/10.1016/j.swevo.2018.02.013)|松鼠优化算法|Squirrel search algorithm|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/120103-squirrel-search-algorithm)|
+|10|[SSA](https://doi.org/10.1016/j.swevo.2018.02.013)|松鼠优化算法|Squirrel search algorithm|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/120103-squirrel-search-algorithm)|
 ---
 
 **Year = 2018**  
