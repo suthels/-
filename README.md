@@ -179,7 +179,7 @@
 |16|[RSO](https://doi.org/10.1007/s12652-020-02580-0)|鼠群优化算法|Rat Swarm Optimizer|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/87057-rat-swarm-optimizer-rso)|
 |17|[SPBO](https://doi.org/10.1016/j.advengsoft.2020.102804)|学生心理优化算法|Student psychology based optimization algorithm|2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/80991-student-psycology-based-optimization-spbo-algorithm)|
 |18|[DA](https://doi.org/10.1007/s00521-020-04866-y)|蜻蜓算法|Dragonfly algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/51035-da-dragonfly-algorithm)|
-
+|19|[SSA](https://doi.org/10.1080/21642583.2019.1708830)|麻雀搜索算法|Sparrow Search algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/88788-sparrow-search-algorithm-ssa)|
 ---
 
 **Year = 2019**  
