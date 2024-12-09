@@ -68,7 +68,7 @@
 |46|[GGO](https://doi.org/10.1016/j.eswa.2023.122147)|灰雁优化算法|Greylag goose optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163321-greylag-goose-optimization-ggo-algorithm?requestedDomain=)|
 |47|[EEFO](https://doi.org/10.1016/j.eswa.2023.122200)|电鳗觅食优化算法|Electric Eel Foraging Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/153461-electric-eel-foraging-optimization-eefo)|
 |48|[AO](https://doi.org/10.1016/j.displa.2024.102740)|青蒿素优化算法|Artemisinin Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/165791-artemisinin-optimization-ao-based-on-malaria-therapy)|
-
+|49|[SBOA](https://doi.org/10.1007/s10462-024-10729-y)|秘书鸟优化算法|Secretary bird optimization algorithm|2024|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/164456-secretary-bird-optimization-algorithm-sboa)|
 ---
 
 **Year = 2023**  
@@ -105,7 +105,10 @@
 |29|[OOBO](https://doi.org/10.3390/biomimetics8060468)|一对一优化器|One-to-One Based Optimizer|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/135807-one-to-one-based-optimizer-oobo)|
 |30|[SSO](https://doi.org/10.3390/math11061473)|受精群优化算法|Sperm Swarm Optimization|2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/92150-sperm-swarm-optimization-sso)|
 |31|[TROA](https://doi.org/10.1016/j.prime.2023.100243)|霸王龙优化算法|Tyrannosaurus optimization algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/134511-tyrannosaurus-optimization-algorithm)|
-
+|32|[GKSO](https://doi.org/10.1016/j.aei.2023.102210)|成吉思汗鲨鱼优化算法|Genghis Khan shark optimizer|2023|[code](https://www.researchgate.net/publication/373091564_GKSO_Code/link/64d78eb566f0e0067d91500d/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)|
+|33|[GEA](https://doi.org/10.1007/s42235-023-00437-8)|间歇泉优化算法|Geyser inspired algorithm|2023|[code](https://optim-app.com/projects/gea)|
+|34|[SOA](https://doi.org/10.32604/cmc.2023.030379)|技能优化算法|Skill optimization algorithm|2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/110675-skill-optimization-algorithm-soa)|
+|35|[SFO](https://doi.org/10.1007/978-981-19-9733-4_4)|向日葵优化算法|Sunflower Optimization Algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/69076-sunflower-optimization-sfo-algorithm)|
 ---
 
 **Year = 2022**  
@@ -134,7 +137,7 @@
 |21|[TSA](https://doi.org/10.1007/s00521-022-06908-z)|正切搜索算法|Tangent search algorithm|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/89897-tangent-search-algorithm-for-solving-optimization-problem?s_tid=FX_rc3_behav)|
 |22|[SHIO](https://doi.org/10.1007/s11227-021-04093-9)|成功历史智能优化器|Success history intelligent optimizer|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/122157-success-history-intelligent-optimizer-shio)|
 |23|[SO](https://doi.org/10.1007/s00366-020-01133-5)|季节优化算法|Seasons optimization algorithms|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/119808-seasons-optimization-algorithm?s_tid=blogs_rc_5)|
-
+|24|[TSO](https://doi.org/10.1007/s10489-020-01727-y)|瞬态搜索优化算法|Transient search optimization|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/112600-transit-search-optimization-algorithm-2022-matlab-codes)|
 ---
 
 **Year = 2021**  
@@ -155,6 +158,7 @@
 |13|[ZOA](https://ieeexplore.ieee.org/document/9768820)|斑马优化算法|Zebra Optimization Algorithm|2021|[code](https://jp.mathworks.com/matlabcentral/fileexchange/122942-zebra-optimization-algorithm-zoa)|
 |14|[AVOA](https://doi.org/10.1016/j.cie.2021.107408)|非洲秃鹫优化算法|African vultures optimization algorithm|2021|[code](https://jp.mathworks.com/matlabcentral/fileexchange/94820-african-vultures-optimization-algorithm)|
 |15|[BES](https://doi.org/10.1007/s10586-024-04586-1)|黑鹰优化算法|Black Eagle Optimizer|2021|[code](https://jp.mathworks.com/matlabcentral/fileexchange/86862-bald-eagle-search-optimization-algorithm-bes)|
+|16|[FDA](https://doi.org/10.1016/j.cie.2021.107224)|流向优化算法|Flow direction algorithm|2021|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163181-application-of-flow-direction-algorithm-fda-to-edp)|
 
 ---
 
@@ -180,6 +184,7 @@
 |17|[SPBO](https://doi.org/10.1016/j.advengsoft.2020.102804)|学生心理优化算法|Student psychology based optimization algorithm|2020|[code](https://www.mathworks.com/matlabcentral/fileexchange/80991-student-psycology-based-optimization-spbo-algorithm)|
 |18|[DA](https://doi.org/10.1007/s00521-020-04866-y)|蜻蜓算法|Dragonfly algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/51035-da-dragonfly-algorithm)|
 |19|[SSA](https://doi.org/10.1080/21642583.2019.1708830)|麻雀搜索算法|Sparrow Search algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/88788-sparrow-search-algorithm-ssa)|
+|20|[MA](https://doi.org/10.1016/j.cie.2020.106559)|蜉蝣优化算法|Mayfly optimization algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/76902-mayfly-optimization-algorithm)|
 ---
 
 **Year = 2019**  
@@ -190,8 +195,9 @@
 |3|[AOS](https://doi.org/10.1016/j.apm.2020.12.021)|原子轨道搜索算法|Atomic orbital search|2019|[code](https://www.mathworks.com/matlabcentral/fileexchange/91160-matlab-code-for-atomic-orbital-search-a-novel-metaheuristic/)|
 |4|[AEFA](https://doi.org/10.1016/j.swevo.2019.03.013)|人工电场算法|Artificial electric field algorithms|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/71218-aefa-artificial-electric-field-algorithm)|
 |5|[SDO](https://doi.org/10.1109/access.2019.2918753)|供需优化算法|Supply-demand-based optimization algorithms|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/71764-supply-demand-based-optimization)|
-|6|[STOA](https://doi.org/10.1016/j.engappai.2019.03.021)|乌鸦优化算法|Sooty Tern Optimization Algorithm|2019||
-
+|6|[STOA](https://doi.org/10.1016/j.engappai.2019.03.021)|乌鸦优化算法|Sooty Tern Optimization Algorithm|2019|[code](https://www.mathworks.com/matlabcentral/fileexchange/76667-sooty-tern-optimization-algorithm-stoa)|
+|7|[HGSO](https://doi.org/10.1016/j.future.2019.07.015)|亨利气体溶解度优化|Henry gas solubility optimization|2019|[code](https://www.mathworks.com/matlabcentral/fileexchange/72212-henry-gas-solubility-optimization)|
+|8|[SFO](https://doi.org/10.1016/j.engappai.2019.01.001)|旗鱼优化器|Sailfish Optimizer|2019|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163381-sailfish-optimizer-sfo?s_tid=prof_contriblnk)|
 ---
 
 **Year = 2018**  
@@ -208,13 +214,13 @@
 |1|[SSA](https://doi.org/10.1016/j.advengsoft.2017.07.002)|樽海鞘优化算法|Salp swarm optimization|2017|[code](https://www.mathworks.com/matlabcentral/fileexchange/63745-ssa-salp-swarm-algorithm)|
 |2|[PDO](https://doi.org/10.1016/j.eswa.2021.115079)|草原犬优化算法|Prairie Dog Optimization Algorithm|2017|[code](https://www.mathworks.com/matlabcentral/fileexchange/110980-prairie-dog-optimization-algorithm)|
 |3|[SHO](https://doi.org/10.1016/j.advengsoft.2017.05.014)|斑鬣狗优化算法|Spotted Hyena Optimizer|2017|[code](https://jp.mathworks.com/matlabcentral/fileexchange/73887-spotted-hyena-optimizer-sho)|
-
+|4|[TEO](https://doi.org/10.1016/j.advengsoft.2017.03.014)|热交换优化器|Thermal exchange optimization|2017|[code](https://jp.mathworks.com/matlabcentral/fileexchange/162371-thermal-exchange-optimization-teo)|
 ---
 
 **Year = 2016**  
 | No. | 算法简称 | 算法全称 | 英文名 | Year | Source code |
 |---|---|---|---|---|---|
-|1|[WOA](https://doi.org/10.1016/j.advengsoft.2013.12.007)|鲸鱼优化算法|Whale Optimization Algorithm|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/55667-the-whale-optimization-algorithm)|
+|1|[WOA](https://doi.org/10.1016/j.advengsoft.2016.01.008)|鲸鱼优化算法|Whale Optimization Algorithm|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/55667-the-whale-optimization-algorithm)|
 |2|[EFO](https://doi.org/10.1016/j.swevo.2015.07.002)|电磁场优化算法|Electromagnetic field optimization|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/52744-electromagnetic-field-optimization-a-physics-inspired-metaheuristic-optimization-algorithm?s_tid=FX_rc1_behav)|
 |3|[MVO](https://doi.org/10.1007/s00521-015-1870-7)|多维优化器|Multi-verse optimizer|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/50112-multi-verse-optimizer-mvo)|
 |4|[JAYA](https://doi.org/10.5267/j.ijiec.2015.8.004)|最优最差|JAYA|2016|[code](https://www.mathworks.com/matlabcentral/fileexchange/74004-jaya-a-simple-and-new-optimization-algorithm)|
@@ -228,6 +234,8 @@
 |2|[MFO](https://doi.org/10.1016/j.knosys.2015.07.006)|蛾焰优化算法|Moth-flame optimization algorithm|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/52269-moth-flame-optimization-mfo-algorithm)|
 |3|[SFS](https://doi.org/10.1016/j.knosys.2014.07.025)|随机分形搜索算法|Stochastic fractal search algorithms|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/47565-stochastic-fractal-search-sfs)|
 |4|[LSA](https://doi.org/10.1016/j.asoc.2015.07.028)|光搜索算法|Lightning search algorithms|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/54181-lightning-search-algorithm-lsa)|
+|5|[ALO](https://doi.org/10.1016/j.advengsoft.2015.01.010)|蚁狮优化器|Ant Lion Optimizer|2015|[code](https://www.mathworks.com/matlabcentral/fileexchange/49920-ant-lion-optimizer-alo)|
+|6|[HTS](https://doi.org/10.1016/j.ins.2015.06.044)|热传递优化算法|Heat transfer search|2015||
 
 ---
 
@@ -267,6 +275,7 @@
 |---|---|---|---|---|---|
 |1|[GSO](https://doi.org/10.1109/tevc.2009.2011992)|群体搜索算法|Group search optimizer|2009|[code](https://github.com/gdesouza/Group-Search-Optimizer)|
 |2|[GSA](https://doi.org/10.1016/j.ins.2009.03.004)|重力搜索算法|Gravitational search algorithms|2009|[code](https://github.com/himanshuRepo/Gravitational-Search-Algorithm)|
+|3|[FA](https://doi.org/10.1007/978-3-642-04441-0_8)|萤火虫算法|Firefly Algorithm|2009|[code](https://github.com/doFighter/Computational-intelligence/tree/main/%E8%90%A4%E7%81%AB%E8%99%AB%E7%AE%97%E6%B3%95/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BC%98%E5%8C%96FA/code/matlab)|
 
 ---
 
@@ -311,4 +320,4 @@
 |1|[SA](https://doi.org/10.1126/science.220.4598.671)|模拟退火算法|simulated annealing|1983|[code](https://mp.weixin.qq.com/s/jp9iivAvEQAmlRPVOqrPHw)|
 
 ---
-
+注：算法发表年份由于在线时间和出版时间不一致可能会造成错误，请以实际为准。
