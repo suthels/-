@@ -141,6 +141,8 @@
 |22|[SHIO](https://doi.org/10.1007/s11227-021-04093-9)|成功历史智能优化器|Success history intelligent optimizer|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/122157-success-history-intelligent-optimizer-shio)|
 |23|[SO](https://doi.org/10.1007/s00366-020-01133-5)|季节优化算法|Seasons optimization algorithms|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/119808-seasons-optimization-algorithm?s_tid=blogs_rc_5)|
 |24|[TSO](https://doi.org/10.1007/s10489-020-01727-y)|瞬态搜索优化算法|Transient search optimization|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/112600-transit-search-optimization-algorithm-2022-matlab-codes)|
+|25|[HOA](https://doi.org/10.3390/s22030855)|鹈鹕优化算法|Pelican Optimization Algorithm|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/106680-pelican-optimization-algorithm-a-novel-nature-inspired)|
+
 ---
 
 **Year = 2021**  
