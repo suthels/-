@@ -112,7 +112,8 @@
 |35|[SFO](https://doi.org/10.1007/978-981-19-9733-4_4)|向日葵优化算法|Sunflower Optimization Algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/69076-sunflower-optimization-sfo-algorithm)|
 |36|[BSMO](https://doi.org/10.3390/app13010564)|二元八哥杂音优化算法|Binary starling murmuration optimizer algorithm|2023|[code](https://github.com/Zahra-Asghari/BSMO)|
 |37|[SPSO]( https://doi.org/10.3390/drones7070452)|球面矢量粒子群优化算法|Spherical Vector-based Particle Swarm Optimization|2023|[code](https://github.com/hadliner/Safety-enhanced-UAV-Path-Planning-with-Spherical-Vector-based-Particle-Swarm)|
-
+|38|[ROA](https://doi.org/10.11591/ijece.v13i4.pp4317-4338)|根瘤优化算法|Rhizostoma optimization algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/135477-rhizostoma-optimization-algorithm-roa?s_tid=FX_rc3_behav)|
+|39|[MOA](https://doi.org/10.1038/s41598-023-37537-8)|母亲优化算法|Mother optimization algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163366-mother-optimization-algorithm-moa/?s_tid=LandingPageTabfx&requestedDomain=)|
 ---
 
 **Year = 2022**  
@@ -142,8 +143,8 @@
 |22|[SHIO](https://doi.org/10.1007/s11227-021-04093-9)|成功历史智能优化器|Success history intelligent optimizer|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/122157-success-history-intelligent-optimizer-shio)|
 |23|[SO](https://doi.org/10.1007/s00366-020-01133-5)|季节优化算法|Seasons optimization algorithms|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/119808-seasons-optimization-algorithm?s_tid=blogs_rc_5)|
 |24|[TSO](https://doi.org/10.1007/s10489-020-01727-y)|瞬态搜索优化算法|Transient search optimization|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/112600-transit-search-optimization-algorithm-2022-matlab-codes)|
-|25|[HOA](https://doi.org/10.3390/s22030855)|鹈鹕优化算法|Pelican Optimization Algorithm|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/106680-pelican-optimization-algorithm-a-novel-nature-inspired)|
-
+|25|[POA](https://doi.org/10.3390/s22030855)|鹈鹕优化算法|Pelican Optimization Algorithm|2022|[code](https://www.mathworks.com/matlabcentral/fileexchange/106680-pelican-optimization-algorithm-a-novel-nature-inspired)|
+|256|[WSO](https://doi.org/10.1109/ACCESS.2022.3153493)|战争策略优化算法|War strategy optimization algorithm|2022|[code](https://jp.mathworks.com/matlabcentral/fileexchange/107989-war-strategy-optimization-algorithm-for-matlab?requestedDomain=)|
 ---
 
 **Year = 2021**  
@@ -192,6 +193,8 @@
 |19|[SSA](https://doi.org/10.1080/21642583.2019.1708830)|麻雀搜索算法|Sparrow Search algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/88788-sparrow-search-algorithm-ssa)|
 |20|[MA](https://doi.org/10.1016/j.cie.2020.106559)|蜉蝣优化算法|Mayfly optimization algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/76902-mayfly-optimization-algorithm)|
 |21|[MRFO](https://doi.org/10.1016/j.engappai.2019.103300)|蝠鲼觅食优化|Manta ray foraging optimization|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/73130-manta-ray-foraging-optimization-mrfo)|
+|22|[FDB](https://doi.org/10.1016/j.knosys.2019.105169)|适应度距离平衡|Fitness-distance balance|2020|[code](https://mp.weixin.qq.com/s/UDC_1g-rYd5EJpRBTajdBQ)|
+|23|[BCMO](https://doi.org/10.1016/j.ins.2020.02.013)|平衡复合运动优化|Balancing composite motion optimization|2020|[code](https://github.com/ThangLe-duc/BCMO_Package)|
 ---
 
 **Year = 2019**  
