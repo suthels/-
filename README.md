@@ -14,6 +14,7 @@
 | No. | 算法简称 | 算法全称 | 英文名 | Year | Source code |
 | --- | --- | --- | --- | --- | --- |
 |1|[ESA](https://doi.org/10.1016/j.knosys.2023.111081)|逃生优化算法|Escape algorithms|2025|[code](https://mp.weixin.qq.com/s/ys6_vKiwArA3LmhmN1Wkbw)|
+|2|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2025|[code](https://doi.org/10.1007/s11227-024-06709-2)|
 
 ---
 
