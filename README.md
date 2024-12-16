@@ -15,6 +15,7 @@
 | --- | --- | --- | --- | --- | --- |
 |1|[ESA](10.1007/s10462-024-11008-6)|逃生优化算法|Escape algorithms|2025|[code](https://mp.weixin.qq.com/s/ys6_vKiwArA3LmhmN1Wkbw)|
 |2|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2025|[code](https://doi.org/10.1007/s11227-024-06709-2)|
+|3|[SFOA](https://doi.org/10.1007/s00521-024-10694-1)|海星优化算法|Starfish optimization algorithm|2025|[code](https://www.mathworks.com/matlabcentral/fileexchange/173735-starfish-optimization-algorithm-sfoa#:~:text=Starfish%20Optimization%20Algorithm%20%28SFOA%29%20is%20a%20novel%20bio-inspired,behaviors%20of%20starfish%2C%20including%20exploration%2C%20preying%2C%20and%20regeneration.)|
 
 ---
 
