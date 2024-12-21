@@ -115,6 +115,7 @@
 |37|[SPSO]( https://doi.org/10.3390/drones7070452)|球面矢量粒子群优化算法|Spherical Vector-based Particle Swarm Optimization|2023|[code](https://github.com/hadliner/Safety-enhanced-UAV-Path-Planning-with-Spherical-Vector-based-Particle-Swarm)|
 |38|[ROA](https://doi.org/10.11591/ijece.v13i4.pp4317-4338)|根瘤优化算法|Rhizostoma optimization algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/135477-rhizostoma-optimization-algorithm-roa?s_tid=FX_rc3_behav)|
 |39|[MOA](https://doi.org/10.1038/s41598-023-37537-8)|母亲优化算法|Mother optimization algorithm|2023|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163366-mother-optimization-algorithm-moa/?s_tid=LandingPageTabfx&requestedDomain=)|
+|40|[MSA](https://doi.org/10.1016/j.cma.2023.116200)|螳螂搜索算法|Mantis Search Algorithm|2023|[code](https://www.mathworks.com/matlabcentral/fileexchange/131833-mantis-search-algorithm-msa)|
 ---
 
 **Year = 2022**  
