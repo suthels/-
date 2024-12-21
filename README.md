@@ -12,8 +12,7 @@
 | No. | 算法简称 | 算法全称 | 英文名 | Year | Source code |
 | --- | --- | --- | --- | --- | --- |
 |1|[ESA](10.1007/s10462-024-11008-6)|逃生优化算法|Escape algorithms|2025|[code](https://mp.weixin.qq.com/s/ys6_vKiwArA3LmhmN1Wkbw)|
-|2|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2025|[code](https://doi.org/10.1007/s11227-024-06709-2)|
-|3|[SFOA](https://doi.org/10.1007/s00521-024-10694-1)|海星优化算法|Starfish optimization algorithm|2025|[code](https://www.mathworks.com/matlabcentral/fileexchange/173735-starfish-optimization-algorithm-sfoa#:~:text=Starfish%20Optimization%20Algorithm%20%28SFOA%29%20is%20a%20novel%20bio-inspired,behaviors%20of%20starfish%2C%20including%20exploration%2C%20preying%2C%20and%20regeneration.)|
+|2|[SFOA](https://doi.org/10.1007/s00521-024-10694-1)|海星优化算法|Starfish optimization algorithm|2025|[code](https://www.mathworks.com/matlabcentral/fileexchange/173735-starfish-optimization-algorithm-sfoa#:~:text=Starfish%20Optimization%20Algorithm%20%28SFOA%29%20is%20a%20novel%20bio-inspired,behaviors%20of%20starfish%2C%20including%20exploration%2C%20preying%2C%20and%20regeneration.)|
 ---
 
 **Year = 2024**  
@@ -71,6 +70,7 @@
 |50|[GGO](https://doi.org/10.1016/j.eswa.2023.122147)|灰雁优化算法|Greylag Goose Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/163321-greylag-goose-optimization-ggo-algorithm#version_history_tab)|
 |51|[FLO](https://doi.org/10.32604/cmc.2024.053189)|伞蜥蜴优化算法|Frilled Lizard Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/168566-frilled-lizard-optimization-flo)|
 |52|[GCRA](https://doi.org/10.1016/j.heliyon.2024.e31629)|大甘蔗鼠优化算法|Greater cane rat algorithm|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/165241-greater-cane-rat-algorithm-gcra?requestedDomain=)|
+|53|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2024||
 ---
 
 **Year = 2023**  
