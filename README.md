@@ -13,6 +13,9 @@
 | --- | --- | --- | --- | --- | --- |
 |1|[ESA](10.1007/s10462-024-11008-6)|逃生优化算法|Escape algorithms|2025|[code](https://mp.weixin.qq.com/s/ys6_vKiwArA3LmhmN1Wkbw)|
 |2|[SFOA](https://doi.org/10.1007/s00521-024-10694-1)|海星优化算法|Starfish optimization algorithm|2025|[code](https://www.mathworks.com/matlabcentral/fileexchange/173735-starfish-optimization-algorithm-sfoa#:~:text=Starfish%20Optimization%20Algorithm%20%28SFOA%29%20is%20a%20novel%20bio-inspired,behaviors%20of%20starfish%2C%20including%20exploration%2C%20preying%2C%20and%20regeneration.)|
+|3|[TOC](https://doi.org/10.1007/s10462-025-11118-9)|龙卷风优化算法| Tornado optimizer with Coriolis force|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180050-tornado-optimizer-with-coriolis-force-a-novel-bio-inspired)|
+|4|[DOA](https://doi.org/10.1016/j.cma.2024.117718)|梦境优化算法|Dream Optimization Algorithm|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/178419-dream-optimization-algorithm-doa)|
+|5|[FGO](https://doi.org/10.1016/j.cma.2025.117825)|真菌生长算法|Fungal growth optimizer|2025|[code](https://drive.mathworks.com/sharing/7b881d79-c7cb-4b64-bdfa-99ab7f57d984)|
 ---
 
 **Year = 2024**  
