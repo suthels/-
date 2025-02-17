@@ -16,6 +16,7 @@
 |3|[TOC](https://doi.org/10.1007/s10462-025-11118-9)|龙卷风优化算法| Tornado optimizer with Coriolis force|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180050-tornado-optimizer-with-coriolis-force-a-novel-bio-inspired)|
 |4|[DOA](https://doi.org/10.1016/j.cma.2024.117718)|梦境优化算法|Dream Optimization Algorithm|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/178419-dream-optimization-algorithm-doa)|
 |5|[FGO](https://doi.org/10.1016/j.cma.2025.117825)|真菌生长算法|Fungal growth optimizer|2025|[code](https://drive.mathworks.com/sharing/7b881d79-c7cb-4b64-bdfa-99ab7f57d984)|
+|6|[CEO](https://doi.org/10.1016/j.chaos.2025.116049)|混沌进化算法|Chaotic evolution optimization|2025|[code](https://github.com/Running-Wolf1010/CEO)|
 ---
 
 **Year = 2024**  
