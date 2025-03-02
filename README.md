@@ -18,7 +18,8 @@
 |5|[FGO](https://doi.org/10.1016/j.cma.2025.117825)|真菌生长算法|Fungal growth optimizer|2025|[code](https://drive.mathworks.com/sharing/7b881d79-c7cb-4b64-bdfa-99ab7f57d984)|
 |6|[CEO](https://doi.org/10.1016/j.chaos.2025.116049)|混沌进化算法|Chaotic evolution optimization|2025|[code](https://github.com/Running-Wolf1010/CEO)|
 |7|[WMA](https://doi.org/10.1016/j.rineng.2025.104215)|鲸鱼迁徙优化算法|Whale Migration Algorithm|2025|[code](https://optim-app.com/projects/wma/code)|
-|9|[CPO](https://doi.org/10.1007/s11227-025-07004-4)|中国穿山甲优化算法|Chinese Pangolin Optimizer|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/178109-chinese-pangolin-optimizer)|
+|8|[CPO](https://doi.org/10.1007/s11227-025-07004-4)|中国穿山甲优化算法|Chinese Pangolin Optimizer|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/178109-chinese-pangolin-optimizer)|
+|9|[ALA](https://doi.org/10.1007/s10462-024-11023-7)|旅鼠优化算法|Artificial-lemming-algorithm|2025|[code](https://github.com/StevenShaw98/Artificial-Lemming-Algorithm)|
 
 
 ---
