@@ -80,6 +80,8 @@
 |51|[FLO](https://doi.org/10.32604/cmc.2024.053189)|伞蜥蜴优化算法|Frilled Lizard Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/168566-frilled-lizard-optimization-flo)|
 |52|[GCRA](https://doi.org/10.1016/j.heliyon.2024.e31629)|大甘蔗鼠优化算法|Greater cane rat algorithm|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/165241-greater-cane-rat-algorithm-gcra?requestedDomain=)|
 |53|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2024||
+|54|[DLO](https://doi.org/10.1007/s12065-024-00998-5)|艾特肯优化算法|Draco lizard optimizer|2024|[code/python](https://github.com/XiaoweiWang-ai/DLO)|
+
 ---
 
 **Year = 2023**  
