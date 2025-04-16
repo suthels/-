@@ -21,7 +21,8 @@
 |8|[CPO](https://doi.org/10.1007/s11227-025-07004-4)|中国穿山甲优化算法|Chinese Pangolin Optimizer|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/178109-chinese-pangolin-optimizer)|
 |9|[ALA](https://doi.org/10.1007/s10462-024-11023-7)|旅鼠优化算法|Artificial-lemming-algorithm|2025|[code](https://github.com/StevenShaw98/Artificial-Lemming-Algorithm)|
 |10|[SFOA](https://link.springer.com/article/10.1007/s10586-024-04901-w#Sec3)|壮丽细尾鹩莺优化算法|Superb Fairy-wren Optimization|2025|[code](https://github.com/suthels/OpenSource)|
-
+|11|[RRT0](https://ieeexplore.ieee.org/document/10909106)|RRT优化算法|RRT-Based Optimizer|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/180256-rrt-based-optimizer)|
+|12|[DRA](https://doi.org/10.1007/s10586-024-04954-x)|神教优化算法|Divine Religions Algorithm|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/180492-divine-religions-algorithm-dra)|
 
 ---
 
