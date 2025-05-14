@@ -25,7 +25,7 @@
 |12|[DRA](https://doi.org/10.1007/s10586-024-04954-x)|神教优化算法|Divine Religions Algorithm|2025|[code](https://ww2.mathworks.cn/matlabcentral/fileexchange/180492-divine-religions-algorithm-dra)|
 |13|[AOO](https://doi.org/10.1016/j.knosys.2025.113589)|动麦优化算法|Animated Oat Optimization|2025|[code](https://seyedalimirjalili.com/morealgorithms)|
 |14|[WUTP](https://doi.org/10.1007/s00521-025-11228-z)|植物吸收和运输水分优化算法|Water Uptake and Transport in Plants|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180980-water-uptake-and-transport-in-plants-wutp-algorithm)|
-|15|[TIS](https://doi.org/10.1016/j.asoc.2025.113071)|思维创新策略|https://doi.org/10.1016/j.asoc.2025.113071|2025|[code](https://github.com/LIANLIAN-Serendipity/TIS-)|
+|15|[TIS](https://doi.org/10.1016/j.asoc.2025.113071)|思维创新策略|Thinking Innovation Strategy|2025|[code](https://github.com/LIANLIAN-Serendipity/TIS-)|
 ---
 
 **Year = 2024**  
