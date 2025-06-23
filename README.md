@@ -27,6 +27,7 @@
 |14|[WUTP](https://doi.org/10.1007/s00521-025-11228-z)|植物吸收和运输水分优化算法|Water Uptake and Transport in Plants|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180980-water-uptake-and-transport-in-plants-wutp-algorithm)|
 |15|[TIS](https://doi.org/10.1016/j.asoc.2025.113071)|思维创新策略|Thinking Innovation Strategy|2025|[code](https://github.com/LIANLIAN-Serendipity/TIS-)|
 |16|[SBO](https://doi.org/10.1016/j.neucom.2025.130603)|状态优化算法|status-based optimization|2025|[code](https://aliasgharheidari.com/SBO.html)|
+|17|[SOO](https://doi.org/10.1007/s10586-024-04976-5)|恒星振荡优化器|Stellar oscillation optimizer|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/161921-stellar-oscillation-optimizer-meta-heuristic-optimimization)|
 
 ---
 
