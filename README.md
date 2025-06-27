@@ -28,6 +28,8 @@
 |15|[TIS](https://doi.org/10.1016/j.asoc.2025.113071)|思维创新策略|Thinking Innovation Strategy|2025|[code](https://github.com/LIANLIAN-Serendipity/TIS-)|
 |16|[SBO](https://doi.org/10.1016/j.neucom.2025.130603)|状态优化算法|status-based optimization|2025|[code](https://aliasgharheidari.com/SBO.html)|
 |17|[SOO](https://doi.org/10.1007/s10586-024-04976-5)|恒星振荡优化器|Stellar oscillation optimizer|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/161921-stellar-oscillation-optimizer-meta-heuristic-optimimization)|
+|18|[THRO](https://doi.org/10.1007/s10462-025-11269-9)|田忌赛马优化算法|Tianji’s horse racing optimization|2025|[code](https://github.com/zwg770123/THRO)/[code完整版代码](http://mp.weixin.qq.com/s?__biz=MzAxMjg5NzQ5OQ==&tempkey=MTMyOF9oYlpqcFpzRXZRUDNRemdPTmx5RlRqR1NIZWlKbW4zY1FCQUdPUFhtZ2Vad1FnU3dRNUJfUkF6X01LSy1ScUNwTlY2Q2FONzZETC1ubVpfZEItTWRQbDBKbFpId0JUaDBMRGZZUDhjYVpmazZnNHVmZlF0OE5lTlRpUjE1bkJWNWFRR09xTG9JTmhPanptOXVJVk96WmlKdElkNWhMd3Q4T0lZM2Znfn4%3D&chksm=9bab8bd8acdc02ceb269ce07c73c4045e5a292c01f551f24472e1d4b7d37307a63a483c32ff3&token=142046407&lang=zh_CN#rd)|
+
 
 ---
 
