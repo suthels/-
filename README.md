@@ -29,7 +29,10 @@
 |16|[SBO](https://doi.org/10.1016/j.neucom.2025.130603)|状态优化算法|status-based optimization|2025|[code](https://aliasgharheidari.com/SBO.html)|
 |17|[SOO](https://doi.org/10.1007/s10586-024-04976-5)|恒星振荡优化器|Stellar oscillation optimizer|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/161921-stellar-oscillation-optimizer-meta-heuristic-optimimization)|
 |18|[THRO](https://doi.org/10.1007/s10462-025-11269-9)|田忌赛马优化算法|Tianji’s horse racing optimization|2025|[code](https://github.com/zwg770123/THRO)/[code完整版代码](http://mp.weixin.qq.com/s?__biz=MzAxMjg5NzQ5OQ==&tempkey=MTMyOF9oYlpqcFpzRXZRUDNRemdPTmx5RlRqR1NIZWlKbW4zY1FCQUdPUFhtZ2Vad1FnU3dRNUJfUkF6X01LSy1ScUNwTlY2Q2FONzZETC1ubVpfZEItTWRQbDBKbFpId0JUaDBMRGZZUDhjYVpmazZnNHVmZlF0OE5lTlRpUjE1bkJWNWFRR09xTG9JTmhPanptOXVJVk96WmlKdElkNWhMd3Q4T0lZM2Znfn4%3D&chksm=9bab8bd8acdc02ceb269ce07c73c4045e5a292c01f551f24472e1d4b7d37307a63a483c32ff3&token=142046407&lang=zh_CN#rd)|
-
+|19|[KLA](https://doi.org/10.1007/s10462-025-11289-5)|基尔霍夫算法|Kirchhoff’s law algorithm|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/181589-kirchhoff-s-law-algorithm-kla)|
+|20|[GTDO](https://www.nature.com/articles/s41598-025-01678-9)|梯度下降优化算法|Adam Gradient Descent|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180348-agdo)|
+|21|[PGA](https://doi.org/10.1016/j.knosys.2025.113548)|向光优化算法|Phototropic growth algorithm|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/181480-phototropic-growth-algorithm-a-novel-metaheuristic-inspired)|
+|22|[BPBO](https://link.springer.com/article/10.1007/s12065-025-01052-8)|基尔猛禽算法|Birds of Prey‑Based Optimization|2025|[code](https://nimakhodadadi.com/algorithms-%2B-codes)|
 
 ---
 
@@ -89,7 +92,7 @@
 |51|[FLO](https://doi.org/10.32604/cmc.2024.053189)|伞蜥蜴优化算法|Frilled Lizard Optimization|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/168566-frilled-lizard-optimization-flo)|
 |52|[GCRA](https://doi.org/10.1016/j.heliyon.2024.e31629)|大甘蔗鼠优化算法|Greater cane rat algorithm|2024|[code](https://jp.mathworks.com/matlabcentral/fileexchange/165241-greater-cane-rat-algorithm-gcra?requestedDomain=)|
 |53|[ATK](https://doi.org/10.1007/s11227-024-06709-2)|艾特肯优化算法|Aitken optimizer|2024||
-|54|[DLO](https://doi.org/10.1007/s12065-024-00998-5)|艾特肯优化算法|Draco lizard optimizer|2024|[code/python](https://github.com/XiaoweiWang-ai/DLO)|
+|54|[DLO](https://doi.org/10.1007/s12065-024-00998-5)|巨蜥优化器|Draco lizard optimizer|2024|[code/python](https://github.com/XiaoweiWang-ai/DLO)|
 
 ---
 
