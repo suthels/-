@@ -33,6 +33,7 @@
 |20|[GTDO](https://www.nature.com/articles/s41598-025-01678-9)|梯度下降优化算法|Adam Gradient Descent|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/180348-agdo)|
 |21|[PGA](https://doi.org/10.1016/j.knosys.2025.113548)|向光优化算法|Phototropic growth algorithm|2025|[code](https://jp.mathworks.com/matlabcentral/fileexchange/181480-phototropic-growth-algorithm-a-novel-metaheuristic-inspired)|
 |22|[BPBO](https://link.springer.com/article/10.1007/s12065-025-01052-8)|基尔猛禽算法|Birds of Prey‑Based Optimization|2025|[code](https://nimakhodadadi.com/algorithms-%2B-codes)|
+|23|[HSO](https://doi.org/10.1016/j.cma.2025.118208)|整体群优化算法|Holistic swarm optimization|2025|[code](https://github.com/ebrahimakbary/HSO)|
 
 ---
 
@@ -238,6 +239,7 @@
 |23|[BCMO](https://doi.org/10.1016/j.ins.2020.02.013)|平衡复合运动优化|Balancing composite motion optimization|2020|[code](https://github.com/ThangLe-duc/BCMO_Package)|
 |24|[ECPO](https://doi.org/10.1007/s10462-020-09890-x)|带电粒子优化算法|Electric Charged Particles Optimization|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/81358-electric-charged-particles-optimization-ecpo)|
 |25|[FBI](https://doi.org/10.1016/j.asoc.2020.106339)|法医调查优化算法|Forensic-Based Investigation algorithm|2020|[code](https://jp.mathworks.com/matlabcentral/fileexchange/76299-forensic-based-investigation-algorithm-fbi)|
+|26|[TFWOW](https://doi.org/10.1016/j.engappai.2020.103666)|水基优化湍流|Turbulent Flow of Water-based Optimization|2020|[code](https://github.com/ebrahimakbary/TFWO)|
 
 ---
 
